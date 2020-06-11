@@ -5,7 +5,6 @@ The source codes are available in C++ and Python.
 
 ## Table of Contents
 
-* Code Template
 * Input and Output Methods
 * Basic Algorithms
   * Quick Sort
