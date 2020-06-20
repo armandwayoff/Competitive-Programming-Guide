@@ -6,8 +6,6 @@ The source codes are available in C++ and Python.
 ## Table of Contents
 
 * Input and Output Methods
-* Basic Algorithms
-  * Quick Sort
 * Training Platforms
 * Useful References
   
